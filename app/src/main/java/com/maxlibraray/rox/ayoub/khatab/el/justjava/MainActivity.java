@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         display(newQuantity);
         displayPrice(newQuantity * price);
         // display the message "Your order has been submitted"
-        Toast.makeText(this,"Your order has been submitted",Toast.LENGTH_SHORT);
+        Toast.makeText(this,"Your order has been submitted",Toast.LENGTH_SHORT).show();
     }
 
     /**
