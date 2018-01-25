@@ -12,7 +12,7 @@ orderCoffeees is a simple android app(basic app), doesn't require any internet o
 
 ## What event are used in this app ?:
 
-### First it used 3 onClick events
+### It used 4 onClick events
 
 1. Increase the amount of coffees you want(executed when **plus** button is clicked)
 2. Decrease the amount of coffees you want(executed when **minus** button is clicked)
