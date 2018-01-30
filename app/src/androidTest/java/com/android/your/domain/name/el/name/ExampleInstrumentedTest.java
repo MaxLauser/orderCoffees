@@ -1,4 +1,4 @@
-package com.maxlibraray.rox.ayoub.khatab.el.justjava;
+package com.android.your.domain.name.el.name;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
